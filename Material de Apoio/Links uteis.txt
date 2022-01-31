@@ -1,0 +1,10 @@
+Links uteis: 
+
+
+1- Link download do git 
+https://git-scm.com/downloads
+2- Link download github 
+https://desktop.github.com/
+3- Link documentação github
+https://docs.github.com/pt/get-started/writing-on-github/working-with-advanced-formatting/creating-a-permanent-link-to-a-code-snippet
+
